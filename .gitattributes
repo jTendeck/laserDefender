@@ -1,0 +1,4 @@
+*.bc filter=lfs diff=lfs merge=lfs -text
+build.pc filter=lfs diff=lfs merge=lfs -text
+Library/il2cpp_cache/linkresult_DEA3B457C4373139CE86B366EFDE15E1/build.bc filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
